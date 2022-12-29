@@ -50,7 +50,7 @@ const World = () => (
         </motion.div>
 
       </motion.div>
-    World section
+    
   </section>
 );
 
